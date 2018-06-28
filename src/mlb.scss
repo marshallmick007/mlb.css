@@ -1,0 +1,34 @@
+@import 'al_east';
+@import 'al_central';
+@import 'al_west';
+
+@import 'nl_east';
+@import 'nl_central';
+@import 'nl_west';
+
+$color-map: ();
+
+$color-map: map-merge($color-map, $al-east);
+$color-map: map-merge($color-map, $al-central);
+$color-map: map-merge($color-map, $al-west);
+$color-map: map-merge($color-map, $nl-east);
+$color-map: map-merge($color-map, $nl-central);
+$color-map: map-merge($color-map, $nl-west);
+
+@each $team, $team-colors in $color-map {
+  .mlb-primary--#{$team} {
+    color: nth($team-colors, 1);
+  }
+
+  .mlb-primary-bg--#{$team} {
+    background-color: nth($team-colors, 1);
+  }
+
+  .mlb-accent--#{$team} {
+    color: nth($team-colors, 2);
+  }
+
+  .mlb-accent-bg--#{$team} {
+    background-color: nth($team-colors, 2);
+  }
+}

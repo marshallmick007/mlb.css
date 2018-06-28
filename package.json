@@ -1,0 +1,16 @@
+{
+  "name": "mlb.css",
+  "version": "0.0.1",
+  "description": "MLB Team CSS Colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "node-sass": "^4.9.0"
+  }
+}

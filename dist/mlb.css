@@ -1,0 +1,359 @@
+.mlb-primary--bal {
+  color: #fc4c02; }
+
+.mlb-primary-bg--bal {
+  background-color: #fc4c02; }
+
+.mlb-accent--bal {
+  color: #27251f; }
+
+.mlb-accent-bg--bal {
+  background-color: #27251f; }
+
+.mlb-primary--bos {
+  color: #c8102e; }
+
+.mlb-primary-bg--bos {
+  background-color: #c8102e; }
+
+.mlb-accent--bos {
+  color: #0c2340; }
+
+.mlb-accent-bg--bos {
+  background-color: #0c2340; }
+
+.mlb-primary--nyy {
+  color: #0c2340; }
+
+.mlb-primary-bg--nyy {
+  background-color: #0c2340; }
+
+.mlb-accent--nyy {
+  color: #ffffff; }
+
+.mlb-accent-bg--nyy {
+  background-color: #ffffff; }
+
+.mlb-primary--tb {
+  color: #092c5c; }
+
+.mlb-primary-bg--tb {
+  background-color: #092c5c; }
+
+.mlb-accent--tb {
+  color: #8fbce6; }
+
+.mlb-accent-bg--tb {
+  background-color: #8fbce6; }
+
+.mlb-primary--tor {
+  color: #134a8e; }
+
+.mlb-primary-bg--tor {
+  background-color: #134a8e; }
+
+.mlb-accent--tor {
+  color: #1d2d5c; }
+
+.mlb-accent-bg--tor {
+  background-color: #1d2d5c; }
+
+.mlb-primary--cws {
+  color: #27251f; }
+
+.mlb-primary-bg--cws {
+  background-color: #27251f; }
+
+.mlb-accent--cws {
+  color: #8a8d8f; }
+
+.mlb-accent-bg--cws {
+  background-color: #8a8d8f; }
+
+.mlb-primary--cle {
+  color: #0c2340; }
+
+.mlb-primary-bg--cle {
+  background-color: #0c2340; }
+
+.mlb-accent--cle {
+  color: #d50032; }
+
+.mlb-accent-bg--cle {
+  background-color: #d50032; }
+
+.mlb-primary--det {
+  color: #0c2340; }
+
+.mlb-primary-bg--det {
+  background-color: #0c2340; }
+
+.mlb-accent--det {
+  color: #fa4616; }
+
+.mlb-accent-bg--det {
+  background-color: #fa4616; }
+
+.mlb-primary--kc {
+  color: #004687; }
+
+.mlb-primary-bg--kc {
+  background-color: #004687; }
+
+.mlb-accent--kc {
+  color: #7ab2dd; }
+
+.mlb-accent-bg--kc {
+  background-color: #7ab2dd; }
+
+.mlb-primary--min {
+  color: #0c2340; }
+
+.mlb-primary-bg--min {
+  background-color: #0c2340; }
+
+.mlb-accent--min {
+  color: #ba0c2f; }
+
+.mlb-accent-bg--min {
+  background-color: #ba0c2f; }
+
+.mlb-primary--hou {
+  color: #002d62; }
+
+.mlb-primary-bg--hou {
+  background-color: #002d62; }
+
+.mlb-accent--hou {
+  color: #eb6e1f; }
+
+.mlb-accent-bg--hou {
+  background-color: #eb6e1f; }
+
+.mlb-primary--laa {
+  color: #003263; }
+
+.mlb-primary-bg--laa {
+  background-color: #003263; }
+
+.mlb-accent--laa {
+  color: #ba0021; }
+
+.mlb-accent-bg--laa {
+  background-color: #ba0021; }
+
+.mlb-primary--oak {
+  color: #034638; }
+
+.mlb-primary-bg--oak {
+  background-color: #034638; }
+
+.mlb-accent--oak {
+  color: #ffb81c; }
+
+.mlb-accent-bg--oak {
+  background-color: #ffb81c; }
+
+.mlb-primary--sea {
+  color: #0c2340; }
+
+.mlb-primary-bg--sea {
+  background-color: #0c2340; }
+
+.mlb-accent--sea {
+  color: #00685e; }
+
+.mlb-accent-bg--sea {
+  background-color: #00685e; }
+
+.mlb-primary--tex {
+  color: #c0111f; }
+
+.mlb-primary-bg--tex {
+  background-color: #c0111f; }
+
+.mlb-accent--tex {
+  color: #003278; }
+
+.mlb-accent-bg--tex {
+  background-color: #003278; }
+
+.mlb-primary--atl {
+  color: #ba0c2f; }
+
+.mlb-primary-bg--atl {
+  background-color: #ba0c2f; }
+
+.mlb-accent--atl {
+  color: #0c2340; }
+
+.mlb-accent-bg--atl {
+  background-color: #0c2340; }
+
+.mlb-primary--mia {
+  color: #ed6f2e; }
+
+.mlb-primary-bg--mia {
+  background-color: #ed6f2e; }
+
+.mlb-accent--mia {
+  color: #0077c8; }
+
+.mlb-accent-bg--mia {
+  background-color: #0077c8; }
+
+.mlb-primary--nym {
+  color: #002d72; }
+
+.mlb-primary-bg--nym {
+  background-color: #002d72; }
+
+.mlb-accent--nym {
+  color: #fc4c02; }
+
+.mlb-accent-bg--nym {
+  background-color: #fc4c02; }
+
+.mlb-primary--phi {
+  color: #ba0c2f; }
+
+.mlb-primary-bg--phi {
+  background-color: #ba0c2f; }
+
+.mlb-accent--phi {
+  color: #003087; }
+
+.mlb-accent-bg--phi {
+  background-color: #003087; }
+
+.mlb-primary--was {
+  color: #ba122b; }
+
+.mlb-primary-bg--was {
+  background-color: #ba122b; }
+
+.mlb-accent--was {
+  color: #14225a; }
+
+.mlb-accent-bg--was {
+  background-color: #14225a; }
+
+.mlb-primary--chc {
+  color: #002f6c; }
+
+.mlb-primary-bg--chc {
+  background-color: #002f6c; }
+
+.mlb-accent--chc {
+  color: #c8102e; }
+
+.mlb-accent-bg--chc {
+  background-color: #c8102e; }
+
+.mlb-primary--cin {
+  color: #d50032; }
+
+.mlb-primary-bg--cin {
+  background-color: #d50032; }
+
+.mlb-accent--cin {
+  color: #000000; }
+
+.mlb-accent-bg--cin {
+  background-color: #000000; }
+
+.mlb-primary--mil {
+  color: #13294b; }
+
+.mlb-primary-bg--mil {
+  background-color: #13294b; }
+
+.mlb-accent--mil {
+  color: #85714d; }
+
+.mlb-accent-bg--mil {
+  background-color: #85714d; }
+
+.mlb-primary--pit {
+  color: #27251f; }
+
+.mlb-primary-bg--pit {
+  background-color: #27251f; }
+
+.mlb-accent--pit {
+  color: #ffc72c; }
+
+.mlb-accent-bg--pit {
+  background-color: #ffc72c; }
+
+.mlb-primary--stl {
+  color: #ba0c2f; }
+
+.mlb-primary-bg--stl {
+  background-color: #ba0c2f; }
+
+.mlb-accent--stl {
+  color: #0c2340; }
+
+.mlb-accent-bg--stl {
+  background-color: #0c2340; }
+
+.mlb-primary--ari {
+  color: #a71930; }
+
+.mlb-primary-bg--ari {
+  background-color: #a71930; }
+
+.mlb-accent--ari {
+  color: #e3d4ad; }
+
+.mlb-accent-bg--ari {
+  background-color: #e3d4ad; }
+
+.mlb-primary--col {
+  color: #330072; }
+
+.mlb-primary-bg--col {
+  background-color: #330072; }
+
+.mlb-accent--col {
+  color: #c4ced4; }
+
+.mlb-accent-bg--col {
+  background-color: #c4ced4; }
+
+.mlb-primary--lad {
+  color: #002f6c; }
+
+.mlb-primary-bg--lad {
+  background-color: #002f6c; }
+
+.mlb-accent--lad {
+  color: #e4002b; }
+
+.mlb-accent-bg--lad {
+  background-color: #e4002b; }
+
+.mlb-primary--sd {
+  color: #041e42; }
+
+.mlb-primary-bg--sd {
+  background-color: #041e42; }
+
+.mlb-accent--sd {
+  color: #a2aaad; }
+
+.mlb-accent-bg--sd {
+  background-color: #a2aaad; }
+
+.mlb-primary--sf {
+  color: #fa4616; }
+
+.mlb-primary-bg--sf {
+  background-color: #fa4616; }
+
+.mlb-accent--sf {
+  color: #27251f; }
+
+.mlb-accent-bg--sf {
+  background-color: #27251f; }
