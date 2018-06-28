@@ -1,5 +1,5 @@
 {
-  "name": "mlb.css",
+  "name": "@marshallmick/mlb.css",
   "version": "0.0.1",
   "description": "MLB Team CSS Colors",
   "main": "index.js",
